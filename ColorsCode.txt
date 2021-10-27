@@ -1,0 +1,24 @@
+\033[stylo;text;backgroundm
+stylo
+	0 none
+	1 bold
+	4 underline
+	7 negative contrast
+text
+	30 branco
+	31 vermelho
+	32 verde
+	33 amarelo	
+	34 azul
+	35 roxo
+	36 azul claro (ciano)
+	37 cinza
+background
+	40 branco
+	41 vermelho
+	42 verde
+	43 amarelo	
+	44 azul
+	45 roxo
+	46 azul claro (ciano)
+	47 cinza

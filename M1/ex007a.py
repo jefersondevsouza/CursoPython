@@ -1,0 +1,5 @@
+nome = input('Qual o seu nome? ')
+n1 = int(input('Um valor: '))
+n2 = int(input('Outro valor: '))
+print('Com dois prints vou escrever mais de 2 linhas \n Preste atencao', nome, end=', ')
+print('Você escreveu 2 valores \n o primeiro foi ', n1, '\n e o segundo foi ', n2)
