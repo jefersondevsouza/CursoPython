@@ -1,0 +1,11 @@
+from random import randint, random
+n1 = randint(0, 10)
+n2 = randint(0, 10)
+n3 = randint(0, 10)
+n4 = randint(0, 10)
+n5 = randint(0, 10)
+tupla = (n1, n2, n3, n4, n5)
+print('Os seguintes números foram gerados: {}'.format(tupla))
+print('O menor valor na tupla é: {}'.format(min(tupla)))
+print('O Maior valor na tupla é: {}'.format(max(tupla)))
+print('Fim do programa')
